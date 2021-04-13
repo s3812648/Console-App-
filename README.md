@@ -43,10 +43,10 @@
 
         - Composite: the Course class holds an array list of Course itself
 
-        - Iterator: is used to create the class StudentList
+        - Repeater: is used to create the class StudentList
 
         - Facade: is used to implement getStudentId() and getCourseId() from Student and Course into StudentEnrollment
 
         - Dependency Injection: is used to inject Student and Class into StudentEnrollment (constructor and setters)
 
-        - Factory: is used to create objects of class Course
+        - CourseManager: is used to create objects of class Course
